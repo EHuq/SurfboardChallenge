@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+.max-width {
+  max-width: 170px;
+  max-height: 100px;
+}
+
+.title {
+  word-wrap: break-word;
+  overflow-y: auto;
+}
+
+.estimate {
+  overflow: hidden;
+}
+
+.description {
+  max-height: 50px;
+  overflow-y: scroll;
+}
